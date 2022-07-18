@@ -1,0 +1,641 @@
+Assets/Brackeys/2D Mega Pack.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds.meta
+Assets/Brackeys/2D Mega Pack/Characters.meta
+Assets/Brackeys/2D Mega Pack/Demo Scene.unity
+Assets/Brackeys/2D Mega Pack/Demo Scene.unity.meta
+Assets/Brackeys/2D Mega Pack/Effects.meta
+Assets/Brackeys/2D Mega Pack/Enemies.meta
+Assets/Brackeys/2D Mega Pack/Environment.meta
+Assets/Brackeys/2D Mega Pack/Extra.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons.meta
+Assets/Brackeys/2D Mega Pack/Platforms.meta
+Assets/Brackeys/2D Mega Pack/Shapes.meta
+Assets/Brackeys/2D Mega Pack/Sounds.meta
+Assets/Brackeys/2D Mega Pack/UI.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Crafting Example.PNG
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Crafting Example.PNG.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Dungeon Puzzle Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Dungeon Puzzle Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Farm Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Farm Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gold Miner Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gold Miner Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gothic Rogue-like Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gothic Rogue-like Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Pong Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Pong Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Retro Platformer Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Retro Platformer Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Shape Shooter Example.PNG
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Shape Shooter Example.PNG.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Stick Figure Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Stick Figure Example.png.meta
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Top-down Arcade Example.png
+Assets/Brackeys/2D Mega Pack/-- Example Photos --/Top-down Arcade Example.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/BlueBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/BlueBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/BrickBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/BrickBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/DarkBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/DarkBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/DustyBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/DustyBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/FieldBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/FieldBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/SkyBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/SkyBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation.meta
+Assets/Brackeys/2D Mega Pack/Characters/ArcadePlayer.png
+Assets/Brackeys/2D Mega Pack/Characters/ArcadePlayer.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Astronaut.png
+Assets/Brackeys/2D Mega Pack/Characters/Astronaut.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players.meta
+Assets/Brackeys/2D Mega Pack/Characters/Detective.png
+Assets/Brackeys/2D Mega Pack/Characters/Detective.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy.meta
+Assets/Brackeys/2D Mega Pack/Characters/Miner.png
+Assets/Brackeys/2D Mega Pack/Characters/Miner.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/MrPeanut.png
+Assets/Brackeys/2D Mega Pack/Characters/MrPeanut.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/MrPickle.png
+Assets/Brackeys/2D Mega Pack/Characters/MrPickle.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/PongPlayer.png
+Assets/Brackeys/2D Mega Pack/Characters/PongPlayer.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers.meta
+Assets/Brackeys/2D Mega Pack/Characters/Stickman.meta
+Assets/Brackeys/2D Mega Pack/Characters/Wizard.png
+Assets/Brackeys/2D Mega Pack/Characters/Wizard.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Jump.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Jump.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut.controller
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Flying.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Flying.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Jump.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Jump.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Flying.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Flying.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Jump.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Jump.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton.overrideController
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton.overrideController.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective.controller
+Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Blue.png
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Blue.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Pink.png
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Pink.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Jump.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Jump.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Land.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Land.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue.controller
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Jump.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Jump.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Land.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Land.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink.controller
+Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Brute.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Brute.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Commoner.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Commoner.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/DarkWizard.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/DarkWizard.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Dragon.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Dragon.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/LightWizard.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/LightWizard.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Princess.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Princess.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Troll.png
+Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Troll.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Soldiers.png
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Soldiers.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/SoldiersFront.png
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/SoldiersFront.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Shoot.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Shoot.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1.controller
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Shoot.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Shoot.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2.controller
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Idle.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Idle.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Shoot.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Shoot.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Walk.anim
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Walk.anim.meta
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3.controller
+Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3.controller.meta
+Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Chest.png
+Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Chest.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Head.png
+Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Head.png.meta
+Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Limb.png
+Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Limb.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation.meta
+Assets/Brackeys/2D Mega Pack/Effects/Explosion.png
+Assets/Brackeys/2D Mega Pack/Effects/Explosion.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Fireball.png
+Assets/Brackeys/2D Mega Pack/Effects/Fireball.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash1.png
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash1.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash2.png
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash2.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash3.png
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash3.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/PixelParticle.png
+Assets/Brackeys/2D Mega Pack/Effects/PixelParticle.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.anim
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.anim.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.controller
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.controller.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.anim
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.anim.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.controller
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.controller.meta
+Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png
+Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Bullet.png
+Assets/Brackeys/2D Mega Pack/Enemies/Bullet.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Canon.png
+Assets/Brackeys/2D Mega Pack/Enemies/Canon.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Crow.png
+Assets/Brackeys/2D Mega Pack/Enemies/Crow.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects.meta
+Assets/Brackeys/2D Mega Pack/Enemies/SpikyBall.png
+Assets/Brackeys/2D Mega Pack/Enemies/SpikyBall.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/FireheadEnemy.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/FireheadEnemy.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy01.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy01.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy02.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy02.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Beetle.png
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Beetle.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/GiantBeetle.png
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/GiantBeetle.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle_0.controller
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle_0.controller.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle.anim
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle.anim.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.anim
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.anim.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.controller
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.controller.meta
+Assets/Brackeys/2D Mega Pack/Environment/Arcade.meta
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame1.png
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame1.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame2.png
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame2.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy.meta
+Assets/Brackeys/2D Mega Pack/Environment/Mountains&Platforms.png
+Assets/Brackeys/2D Mega Pack/Environment/Mountains&Platforms.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles.meta
+Assets/Brackeys/2D Mega Pack/Environment/Arcade/Maze.png
+Assets/Brackeys/2D Mega Pack/Environment/Arcade/Maze.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Barrel.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Barrel.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Left.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Left.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Mid.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Mid.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Right.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Right.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/DirtRow.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/DirtRow.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/ExtraDirt.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/ExtraDirt.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TableLog.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TableLog.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TrashCan.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TrashCan.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Truck.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Truck.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Grass.png
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Grass.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Ground.png
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Ground.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Pyramids.png
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Pyramids.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door_NoGround.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door_NoGround.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp_NoGround.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp_NoGround.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Gravestone.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Gravestone.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram_Activated.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram_Activated.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Stone.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Stone.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/ApartmentLevel.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/ApartmentLevel.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Car.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Car.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Road.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Road.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/RoadTurn.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/RoadTurn.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Building.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Building.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Ground&Sky.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Ground&Sky.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree01.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree01.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree02.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree02.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/CheckerTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/CheckerTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/GroundTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/GroundTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/HollowTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/HollowTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/PlatformerTiles.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/PlatformerTiles.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile_Down.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile_Down.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile.png.meta
+Assets/Brackeys/2D Mega Pack/Extra/Shadow.png
+Assets/Brackeys/2D Mega Pack/Extra/Shadow.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Dead.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Dead.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Done.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Done.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Seed.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Seed.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower1.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower1.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower2.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower2.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower3.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower3.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Grass1.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Grass1.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss1.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss1.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss2.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss2.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom.png.meta
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom2.png
+Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom2.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueButton.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueButton.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueDoor.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueDoor.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Bullet.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Bullet.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Coin.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Coin.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenButton.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenButton.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenDoor.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenDoor.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Spawn.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Spawn.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Turret.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Turret.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Coin.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Coin.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Crate.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Crate.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable2.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable2.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Diamond.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Diamond.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Gold01.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Gold01.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Harpoon.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Harpoon.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Hook.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Hook.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Phone.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Phone.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Tape.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Tape.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/TV_Animated.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/TV_Animated.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.anim
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.anim.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.controller
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.controller.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/Skull.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/Skull.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/SoulFragment.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/SoulFragment.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/Bullet.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/Bullet.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/ShotgunShell.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/ShotgunShell.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/WoodCrate.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/WoodCrate.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Ball.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Ball.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Goal.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Goal.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/MidLine.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/MidLine.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Wall.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Wall.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Castle.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Castle.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coal.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coal.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coin.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coin.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Crown.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Crown.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Diamond.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Diamond.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Earth.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Earth.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Egg.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Egg.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Enemy Army.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Enemy Army.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fire.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fire.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fireplace.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fireplace.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fish.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fish.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Friendly Army.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Friendly Army.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Glass.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Glass.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Hat.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Hat.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Heart.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Heart.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Iron.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Iron.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Magic Egg.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Magic Egg.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/MagicEssence.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/MagicEssence.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Meat.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Meat.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Potion.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Potion.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Rock.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Rock.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sand.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sand.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Scroll.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Scroll.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sheep.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sheep.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Slaves.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Slaves.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/TheRing.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/TheRing.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop1.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop1.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop2.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop2.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wood.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wood.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wool.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wool.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/World Ender.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/World Ender.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Humvee.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Humvee.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/MissileLauncher.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/MissileLauncher.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Tank.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Tank.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Turret.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Turret.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Wall.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Wall.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Outline.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Outline.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Blue.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Blue.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Pink.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Pink.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Uncolored.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Uncolored.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood_Small.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood_Small.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Arrow.png
+Assets/Brackeys/2D Mega Pack/Shapes/Arrow.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Circle.png
+Assets/Brackeys/2D Mega Pack/Shapes/Circle.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Diamond.png
+Assets/Brackeys/2D Mega Pack/Shapes/Diamond.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/LargeRing.png
+Assets/Brackeys/2D Mega Pack/Shapes/LargeRing.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/LargeSquare.png
+Assets/Brackeys/2D Mega Pack/Shapes/LargeSquare.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Ring.png
+Assets/Brackeys/2D Mega Pack/Shapes/Ring.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Square.png
+Assets/Brackeys/2D Mega Pack/Shapes/Square.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Sugar.png
+Assets/Brackeys/2D Mega Pack/Shapes/Sugar.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Triangle.png
+Assets/Brackeys/2D Mega Pack/Shapes/Triangle.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/X.png
+Assets/Brackeys/2D Mega Pack/Shapes/X.png.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Click.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Click.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav
+Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav
+Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav
+Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav
+Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav.meta
+Assets/Brackeys/2D Mega Pack/UI/Arrow.png
+Assets/Brackeys/2D Mega Pack/UI/Arrow.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors.meta
+Assets/Brackeys/2D Mega Pack/UI/Dialogue.png
+Assets/Brackeys/2D Mega Pack/UI/Dialogue.png.meta
+Assets/Brackeys/2D Mega Pack/UI/IconBox.png
+Assets/Brackeys/2D Mega Pack/UI/IconBox.png.meta
+Assets/Brackeys/2D Mega Pack/UI/ItemFrame.png
+Assets/Brackeys/2D Mega Pack/UI/ItemFrame.png.meta
+Assets/Brackeys/2D Mega Pack/UI/ItemPoolFrame.png
+Assets/Brackeys/2D Mega Pack/UI/ItemPoolFrame.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Panel.png
+Assets/Brackeys/2D Mega Pack/UI/Panel.png.meta
+Assets/Brackeys/2D Mega Pack/UI/SpeechBubble.png
+Assets/Brackeys/2D Mega Pack/UI/SpeechBubble.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Shoot.png
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Shoot.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors/YellowCursor.png
+Assets/Brackeys/2D Mega Pack/UI/Cursors/YellowCursor.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Axe.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Axe.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Club.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Club.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/FishingRod.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/FishingRod.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Pickaxe.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Pickaxe.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Plow.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Plow.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Spear.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Spear.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Staff.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Staff.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Sword.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/Sword.png.meta
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/WateringCan.png
+Assets/Brackeys/2D Mega Pack/Weapons & Tools/WateringCan.png.meta
